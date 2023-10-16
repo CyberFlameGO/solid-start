@@ -100,7 +100,7 @@
     "sade": "^1.8.1",
     "sirv": "^2.0.2",
     "terser": "^5.15.1",
-    "undici": "^5.11.0",
+    "undici": "^5.26.2",
     "vite-plugin-inspect": "^0.6.1",
     "vite-plugin-solid": "^2.3.10",
     "wait-on": "^6.0.1"
